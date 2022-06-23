@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (ProjectYan.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\User\Desktop\ProjecEncryptDecrypt\ProjectYan\Source.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ProjecEncryptDecrypt\ProjectYan\Source.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ProjecEncryptDecrypt\ProjectYan\Source.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ProjecEncryptDecrypt\ProjectYan\Source.cpp(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\ProjecEncryptDecrypt\ProjectYan\Source.cpp(126,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  3 of 216 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ProjectYan.vcxproj -> C:\Users\User\Desktop\ProjecEncryptDecrypt\Release\gronsveld.exe
